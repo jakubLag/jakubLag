@@ -11,7 +11,7 @@ Currently, I am at the beginning of my career as a programmer, and I am further 
 <img align="left" alt="HTML" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Figma" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Figma" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Figma" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
 
           
