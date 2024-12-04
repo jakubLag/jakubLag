@@ -6,6 +6,9 @@ Currently, I am at the beginning of my career as a programmer, and I am further 
 [Here you can take a look at my portfolio.](https://www.jlag.pl)
 
 ### Languages and tools
-<img align="left" alt="TypeScript" width="80px" style="padding-right: 300px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="TypeScript" width="80px" style="padding-right: 300px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="C#" width="80px" style="padding-right: 200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
           
