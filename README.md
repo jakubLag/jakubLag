@@ -6,5 +6,5 @@ Currently, I am at the beginning of my career as a programmer, and I am further 
 [Here you can take a look at my portfolio.](https://www.jlag.pl)
 
 ### Languages and tools
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
           
